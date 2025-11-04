@@ -1,9 +1,24 @@
-# 🧠 smart-preprocess-asif  
-> **A lightweight, one-line data preprocessing toolkit for machine learning workflows.**
+<div align="center">
 
-[![PyPI version](https://img.shields.io/pypi/v/smart-preprocess-asif.svg)](https://pypi.org/project/smart-preprocess-asif/)
-[![Python versions](https://img.shields.io/pypi/pyversions/smart-preprocess-asif.svg)](https://pypi.org/project/smart-preprocess-asif/)
-[![License](https://img.shields.io/pypi/l/smart-preprocess-asif.svg)](https://github.com/asifpinjari/smart-preprocess-asif/blob/main/LICENSE)
+# 🧠 **smart-preprocess-asif**
+
+### 🚀 A One-Line Data Preprocessing Toolkit for ML Pipelines  
+
+**Clean your dataset in seconds — imputation, scaling, encoding, and outlier removal, all automated!**  
+
+[![PyPI version](https://img.shields.io/pypi/v/smart-preprocess-asif.svg?color=blue&logo=pypi)](https://pypi.org/project/smart-preprocess-asif/)
+[![Python versions](https://img.shields.io/pypi/pyversions/smart-preprocess-asif.svg?logo=python)](https://pypi.org/project/smart-preprocess-asif/)
+[![License](https://img.shields.io/github/license/asifpinjari/smart-preprocess-asif?color=brightgreen)](https://github.com/asifpinjari/smart-preprocess-asif/blob/main/LICENSE)
+[![Downloads](https://static.pepy.tech/badge/smart-preprocess-asif)](https://pepy.tech/project/smart-preprocess-asif)
+
+🧩 Built with **pandas** + **scikit-learn**  
+💡 Designed for **AI/ML Engineers**, **Data Scientists**, and **Students**
+
+</div>
+
+---
+
+
 
 
 ---
@@ -100,6 +115,5 @@ If you find this project useful, please share it:
 🔗 PyPI:
 https://pypi.org/project/smart-preprocess-asif/
 
-![smart-preprocess banner](https://github.com/asifpinjari/smart-preprocess-asif/raw/main/banner.png)
 
 
