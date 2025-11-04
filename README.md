@@ -45,6 +45,7 @@ print(X.head())
 print("\nReport:")
 print(cleaner.report_)
 
+
 Output:
 
 ✅ Cleaned DataFrame:
@@ -56,7 +57,8 @@ Output:
 Report:
 {'numeric_cols': ['age'], 'categorical_cols': ['city'], ...}
 
-###🔍 Features
+## 🔍 **Features**
+
 
 ✅ Automatic missing value imputation
 ✅ Outlier clipping (IQR method)
@@ -70,7 +72,7 @@ In ML projects, preprocessing pipelines often require 10–15 lines of repetitiv
 smart-preprocess-asif condenses those steps into one reusable, customizable class —
 built with pandas + scikit-learn for performance and reliability.
 
-###🧪 Example Use Case
+🧪 Example Use Case
 
 Integrate it into a scikit-learn pipeline:
 
@@ -85,7 +87,7 @@ pipe = Pipeline([
 
 pipe.fit(X_train, y_train)
 
-###🛠 Requirements
+🛠 Requirements
 
 Python ≥ 3.9
 
@@ -97,21 +99,21 @@ numpy ≥ 1.24
 
 1.24
 
-###🤝 Contributing
+🤝 Contributing
 
 Pull requests are welcome!
 
 Issues
 
-###📜 License
+📜 License
 
 Licensed under the MIT License © 2025 Asif Pinjari
 
-###🌟 Support
+🌟 Support
 
 If you find this project useful, please share it:
 
-###🔗 PyPI:
+🔗 PyPI:
 https://pypi.org/project/smart-preprocess-asif/
 
 
