@@ -57,7 +57,8 @@ Output:
 Report:
 {'numeric_cols': ['age'], 'categorical_cols': ['city'], ...}
 
-## 🔍 **Features**
+
+🔍 Features
 
 
 ✅ Automatic missing value imputation
@@ -65,6 +66,8 @@ Report:
 ✅ Feature scaling using StandardScaler
 ✅ One-hot encoding for categorical variables
 ✅ Compact report dictionary summarizing transformations
+
+
 
 🧩 Why use smart-preprocess-asif?
 
