@@ -4,7 +4,7 @@
 [![PyPI version](https://img.shields.io/pypi/v/smart-preprocess-asif.svg)](https://pypi.org/project/smart-preprocess-asif/)
 [![Python versions](https://img.shields.io/pypi/pyversions/smart-preprocess-asif.svg)](https://pypi.org/project/smart-preprocess-asif/)
 [![License](https://img.shields.io/pypi/l/smart-preprocess-asif.svg)](https://github.com/asifpinjari/smart-preprocess-asif/blob/main/LICENSE)
-[![Downloads](https://static.pepy.tech/badge/smart-preprocess-asif)](https://pepy.tech/project/smart-preprocess-asif)
+
 
 ---
 
